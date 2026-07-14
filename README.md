@@ -1,18 +1,80 @@
-# React + Vite
+# RestaurantAI 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RestaurantAI is an AI-powered assistant for restaurants that helps create menus, recipes, pricing suggestions, translations, and restaurant marketing content using Artificial Intelligence.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🍴 AI Menu Generator
+Generate professional restaurant menu descriptions using AI.
 
-## React Compiler
+### 🌐 AI Menu Translator
+Translate menu items into multiple languages.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### 💰 AI Food Cost Calculator
+Calculate:
+- Ingredient cost
+- Cost per serving
+- Suggested selling price
+- Estimated profit
 
-Note: This will impact Vite dev & build performances.
+### 👨‍🍳 AI Recipe Generator
+Generate recipes with:
+- Ingredients
+- Preparation steps
+- Cooking instructions
 
-## Expanding the ESLint configuration
+### 🏷️ Restaurant Name Generator
+Generate creative restaurant name ideas.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📢 Restaurant Slogan Generator
+Create attractive slogans for restaurants.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- CSS
+
+### AI Integration
+- Google Gemini API
+
+### Backend / Services
+- Firebase
+
+### Deployment
+- Vercel
+
+---
+
+## 🎯 Project Goal
+
+RestaurantAI helps restaurant owners save time by using AI for:
+
+- Menu creation
+- Recipe generation
+- Food cost calculation
+- Translation
+- Restaurant branding
+
+---
+
+## 🌐 Live Demo
+
+https://restaurant-ai-ten-iota.vercel.app/
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+---
+
+## 👩‍💻 Author
+
+Khushbu Patil
+
+Built as an AI-powered restaurant assistant project.
