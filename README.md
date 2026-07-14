@@ -67,11 +67,11 @@ https://restaurant-ai-ten-iota.vercel.app/
 
 ---
 
-## 📸 Screenshots
+## 🎥 Demo Video
 
-(Add screenshots here)
+Watch RestaurantAI in action:
 
----
+[Click here to watch demo video](https://drive.google.com/file/d/19z-JUDX4sPAk97rsMeGbnWlMKoozElXt/view?usp=sharing)
 
 ## 👩‍💻 Author
 
